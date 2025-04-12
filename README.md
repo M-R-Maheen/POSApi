@@ -5,4 +5,6 @@ Use Sql Server 2022
 Models
      (i). Employee , (ii). Customer, (iii). Product, (iv). Sale
 
-Http Action: HttpGet, HttpPost, HttpPut and HttpDelete.
+Http Action:
+----------------------
+ HttpGet, HttpPost, HttpPut and HttpDelete.
