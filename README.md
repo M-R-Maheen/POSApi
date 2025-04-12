@@ -8,7 +8,7 @@ Models:
 -------
      (i). Employee , (ii). Customer, (iii). Product, (iv). Sale
 
-Http Action:
-------------
+Http Action Method :
+--------------------
 (i). HttpGet , (ii). HttpPost,  (iii). HttpPut and (iv). HttpDelete.
-(i). Employee , (ii). Customer, (iii). Product, (iv). Sale
+
