@@ -5,9 +5,10 @@ Use .Net 8 Core Api ,
 Use Sql Server 2022
 ---------------------
 Models:
---------
+-------
      (i). Employee , (ii). Customer, (iii). Product, (iv). Sale
 
 Http Action:
-----------------------
+------------
 (i). HttpGet , (ii). HttpPost,  (iii). HttpPut and (iv). HttpDelete.
+(i). Employee , (ii). Customer, (iii). Product, (iv). Sale
